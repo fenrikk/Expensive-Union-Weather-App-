@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Expensive Union</string>
+    <string name="get_forecast">GET FORECAST</string>
+</resources>
